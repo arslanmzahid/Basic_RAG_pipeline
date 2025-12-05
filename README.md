@@ -164,6 +164,3 @@ This project demonstrates:
 * Exposing models as a **FastAPI microservice**
 * Good engineering practices (env vars, modular code, health checks)
 
-You can mention it in your CV as:
-
-> *“Built a RAG-based knowledge retrieval microservice using FastAPI, OpenAI embeddings, and FAISS; implemented document chunking, vector indexing, semantic retrieval, and context-aware LLM answering through a `/query` API endpoint.”*
