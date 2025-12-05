@@ -154,13 +154,4 @@ Example response:
 
 ---
 
-## 📌 How this fits an AI Engineer role
-
-This project demonstrates:
-
-* Building an end-to-end **RAG pipeline**
-* Working with **LLMs + embeddings**
-* Vector search using **FAISS**
-* Exposing models as a **FastAPI microservice**
-* Good engineering practices (env vars, modular code, health checks)
 
